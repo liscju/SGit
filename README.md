@@ -1,3 +1,3 @@
-# SGIt
+# SGit
 
-*Note:* This branch is no longer maintained.
+**Note:** This branch is no longer maintained.
