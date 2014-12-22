@@ -1,0 +1,30 @@
+# view res/layout/activity_repo_detail_content.xml #generated:11
+-keep class android.support.v4.view.PagerTitleStrip { <init>(...); }
+
+# view res/layout/activity_repo_detail_content.xml #generated:5
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_repo_detail.xml #generated:1
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class me.sheimi.sgit_dev.RepoListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class me.sheimi.sgit_dev.activities.CommitDiffActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class me.sheimi.sgit_dev.activities.RepoDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class me.sheimi.sgit_dev.activities.ViewFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class me.sheimi.sgit_dev.activities.explorer.ExploreFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class me.sheimi.sgit_dev.activities.explorer.ImportRepositoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class me.sheimi.sgit_dev.activities.explorer.PrivateKeyManageActivity { <init>(...); }
+
